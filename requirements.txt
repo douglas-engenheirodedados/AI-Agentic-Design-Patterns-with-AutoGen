@@ -3,7 +3,7 @@
 # in this file, insert all the pip install needs, include revision
 
 # python==3.10.13
-pyautogen==0.2.25
+pyautogen
 chess==1.10.0
 matplotlib
 numpy
@@ -11,3 +11,4 @@ pandas
 yfinance
 autogen
 jupyter
+python-dotenv

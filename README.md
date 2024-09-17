@@ -1,2 +1,5 @@
 # AI-Agentic-Design-Patterns-with-AutoGen
-This repository aims to store the study material related to the creation of AI Agents using AutoGen
+
+Este repositório armazena o material de estudo relacionado à criação de Agentes de IA usando AutoGen.
+
+## Estrutura do Projeto
