@@ -3,6 +3,7 @@
 # in this file, insert all the pip install needs, include revision
 
 autogen
+groq
 pyautogen
 matplotlib
 numpy
