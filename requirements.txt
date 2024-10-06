@@ -3,11 +3,13 @@
 # in this file, insert all the pip install needs, include revision
 
 autogen
-groq
+autogen-agentchat~=0.2
 pyautogen
-matplotlib
-numpy
-pandas
-yfinance
-jupyter
+groq
 python-dotenv
+# matplotlib
+# numpy
+# pandas
+# yfinance
+# jupyter
+
